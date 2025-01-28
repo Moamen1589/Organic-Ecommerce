@@ -1,0 +1,10 @@
+.shop {
+    background-image: url('/public/Images/vegetables-icon-background-vegetarian-vector-icon-background_645658-735.avif');
+    position: relative;
+}
+.overlay{
+    width: 100%;
+    height:100%;
+    backdrop-filter: blur(2px);
+    position: absolute;
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "foodName": "Whole Wheat Sandwich Bread",
+    "image": "/Images/product-thumb-1.webp",
+    "imageAlt": "Whole Wheat Sandwich Bread",
+    "price": 14.00,
+    "description": "Freshly baked whole wheat sandwich bread, perfect for healthy meals.",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "foodName": "Whole Grain Oatmeal",
+    "image": "/Images/product-thumb-2.webp",
+    "imageAlt": "Whole Grain Oatmeal",
+    "price": 18.00,
+    "description": "Nutritious and hearty oatmeal made from 100% whole grains.",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "foodName": "Sharp Cheddar Cheese Block",
+    "image": "/Images/product-thumb-3.webp",
+    "imageAlt": "Sharp Cheddar Cheese Block",
+    "price": 11.00,
+    "description": "Rich and creamy sharp cheddar cheese, great for cooking and snacking.",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "foodName": "Organic Baby Spinach",
+    "image": "/Images/product-thumb-4.webp",
+    "imageAlt": "Organic Baby Spinach",
+    "price": 19.00,
+    "description": "Fresh organic baby spinach, ideal for salads and smoothies.",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "foodName": "Organic Spinach Leaves",
+    "image": "/Images/product-thumb-5.webp",
+    "imageAlt": "Organic Spinach Leaves (Fresh Produce)",
+    "price": 24.00,
+    "description": "Crisp and fresh organic spinach leaves for a healthy diet.",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "foodName": "Fresh Salmon",
+    "image": "/Images/product-thumb-6.webp",
+    "imageAlt": "Fresh Salmon",
+    "price": 15.00,
+    "description": "Premium fresh salmon, perfect for grilling or baking.",
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "foodName": "Imported Italian Spaghetti Pasta",
+    "image": "/Images/product-thumb-7.webp",
+    "imageAlt": "Imported Italian Spaghetti Pasta",
+    "price": 27.00,
+    "description": "Authentic Italian spaghetti pasta for classic pasta dishes.",
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "foodName": "Granny Smith Apples",
+    "image": "/Images/product-thumb-8.webp",
+    "imageAlt": "Granny Smith Apples",
+    "price": 24.00,
+    "description": "Tart and crispy Granny Smith apples, perfect for snacks or baking.",
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "foodName": "Organic 2% Reduced Fat Milk",
+    "image": "/Images/product-thumb-9.webp",
+    "imageAlt": "Organic 2% Reduced Fat Milk",
+    "price": 14.00,
+    "description": "Organic milk with 2% reduced fat for a creamy and healthy taste.",
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "foodName": "Greek Style Plain Yogurt",
+    "image": "/Images/product-thumb-10.webp",
+    "imageAlt": "Greek Style Plain Yogurt",
+    "price": 28.00,
+    "description": "Rich and creamy plain Greek yogurt, perfect for a healthy snack.",
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "foodName": "Orange Juice",
+    "image": "/Images/product-thumb-11.webp",
+    "imageAlt": "Orange Juice",
+    "price": 30.00,
+    "description": "Freshly squeezed orange juice with no added sugar.",
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "foodName": "Fresh Oranges",
+    "image": "/Images/product-thumb-12.webp",
+    "imageAlt": "Fresh Oranges",
+    "price": 10.00,
+    "description": "Juicy and sweet oranges, great for snacks or juicing.",
+    "quantity": 1
+  },
+  {
+    "id": 13,
+    "foodName": "Lemon",
+    "image": "/Images/product-thumb-13.webp",
+    "imageAlt": "Lemon",
+    "price": 11.00,
+    "description": "Fresh lemons for drinks, cooking, and cleaning.",
+    "quantity": 1
+  },
+  {
+    "id": 14,
+    "foodName": "Fresh Green Celery",
+    "image": "/Images/product-thumb-14.webp",
+    "imageAlt": "Fresh Green Celery",
+    "price": 24.00,
+    "description": "Crispy green celery, perfect for salads and healthy snacks.",
+    "quantity": 1
+  },
+  {
+    "id": 15,
+    "foodName": "Sandwich Bread",
+    "image": "/Images/product-thumb-15.webp",
+    "imageAlt": "Sandwich Bread",
+    "price": 15.00,
+    "description": "Soft and fluffy sandwich bread for daily meals.",
+    "quantity": 1
+  },
+  {
+    "id": 16,
+    "foodName": "Vegetables",
+    "image": "/Images/product-thumb-16.webp",
+    "imageAlt": "Vegetables",
+    "price": 13.00,
+    "description": "A mix of fresh vegetables for cooking and salads.",
+    "quantity": 1
+  },
+  {
+    "id": 17,
+    "foodName": "Whole Wheat Sandwich Bread",
+    "image": "/Images/product-thumb-17.webp",
+    "imageAlt": "Whole Wheat Sandwich Bread",
+    "price": 11.00,
+    "description": "Healthy whole wheat bread, perfect for sandwiches.",
+    "quantity": 1
+  },
+  {
+    "id": 18,
+    "foodName": "Apples",
+    "image": "/Images/product-thumb-18.webp",
+    "imageAlt": "Apples",
+    "price": 14.00,
+    "description": "Crispy and sweet apples for snacks and desserts.",
+    "quantity": 1
+  },
+  {
+    "id": 19,
+    "foodName": "Fresh Juice",
+    "image": "/Images/product-thumb-19.webp",
+    "imageAlt": "Fresh Juice",
+    "price": 18.00,
+    "description": "Delicious fresh juice, packed with vitamins.",
+    "quantity": 1
+  },
+  {
+    "id": 20,
+    "foodName": "Fruits Juice",
+    "image": "/Images/product-thumb-20.webp",
+    "imageAlt": "Fruits Juice",
+    "price": 20.00,
+    "description": "A refreshing mix of fruits in a juice blend.",
+    "quantity": 1
+  }
+]
