@@ -18,8 +18,8 @@ This is a React-based organic e-commerce platform designed for purchasing fresh 
 1. **useState**: For managing component-level states like cart items and user inputs.
 2. **useEffect**: For handling side effects such as updating the document title or fetching local data.
 3. **useContext**: For sharing state between components without passing props manually.
-4. **useRef**: For DOM manipulation and persisting values across renders.
-5. **useReducer** (if applicable): To manage complex state logic in a predictable way.
+4. **useNavigate**: TO Navigate To Anthoer Pages.
+5. **useLocation**: To Show Details Of Product.
 
 ## Installation and Setup
 Follow these steps to install and run the project locally:
@@ -79,15 +79,4 @@ Follow these steps to install and run the project locally:
 - **/public**: Public assets accessible without authentication.
 - **/styles**: Tailwind CSS configurations and custom styles.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this project.
-
-## Live Demo
-(If deployed, add the live demo link here.)
-
-## Acknowledgments
-Special thanks to the contributors and open-source libraries used in this project.
 
