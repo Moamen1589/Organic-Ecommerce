@@ -23,7 +23,7 @@ const Checkout = () => {
             icon: "success",
             draggable: true
          }).then((submit) => {
-            if (submit.isConfirmed) {
+            if (submit.isConfirmed || submit.dismiss) {
                navigate('/shop')
             }
          });
