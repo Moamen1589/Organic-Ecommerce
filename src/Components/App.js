@@ -5,26 +5,29 @@ import SignIn from '../Auth/SignIn';
 import SignUp from '../Auth/SignUp';
 import Profile from '../Auth/Profile';
 import CheckOut from './CheckOut';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; 
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import ShopContext from '../Context/ShopContext';
+import UserDataContext from '../Context/UserDataContext';
 function App() {
-  return ( 
-    
-    <Router>
-        <ShopContext>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/shop" element={<Shop />} />
-        <Route path="/details" element={<ShowDetails />} />
-        <Route path="/checkout" element={<CheckOut />} />
-        <Route path="/signin" element={<SignIn />} />
-        <Route path="/signup" element={<SignUp />} />
-        <Route path="/profile" element={<Profile />} />
-      </Routes>
-      </ShopContext>
-    </Router>
-  
-  );
+    return (
+
+        <Router>
+             <UserDataContext>
+            <ShopContext>
+                    <Routes>
+                        <Route path="/" element={<Home />} />
+                        <Route path="/shop" element={<Shop />} />
+                        <Route path="/details" element={<ShowDetails />} />
+                        <Route path="/checkout" element={<CheckOut />} />
+                        <Route path="/signin" element={<SignIn />} />
+                        <Route path="/signup" element={<SignUp />} />
+                        <Route path="/profile" element={<Profile />} />
+                    </Routes>
+                    </ShopContext>
+                </UserDataContext>
+        </Router>
+
+    );
 }
 
 export default App;
